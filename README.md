@@ -6,12 +6,14 @@
 </p>
 
 ---
-
 ### 🕵️ About Me
+```bash
 $ whoami
-$ Cyber Security Engineer | Red Teamer | c0mrad33
-$ Passionate about OPSEC, VAPT & Active Directory exploitation
-$ Currently working on: Active Directory attack paths & tradecraft
+Cyber Security Engineer | Red Teamer | c0mrad33
+Passionate about OPSEC, VAPT & Active Directory exploitation
+Currently working on: Active Directory attack paths & tradecraft
+```
+
 - 🔭 I'm currently working on **Active Directory** (attack paths, privilege escalation, persistence)
 - 🌱 I'm currently learning **AD security internals, Red Team tradecraft**
 - 💬 Ask me about **VAPT, OPSEC, Active Directory, Red Teaming**
