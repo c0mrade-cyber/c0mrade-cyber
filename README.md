@@ -7,7 +7,9 @@
 
 ---
 ### 🕵️ About Me
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=500&pause=200&color=00FF00&background=00000000&center=true&vCenter=true&repeat=true&width=600&lines=c0mrad33;c0mrad33;c0mrad33" alt="Typing SVG" />
+</p>
 - 🔭 I'm currently working on **Active Directory** (attack paths, privilege escalation, persistence)
 - 🌱 I'm currently learning **AD security internals, Red Team tradecraft**
 - 💬 Ask me about **VAPT, OPSEC, Active Directory, Red Teaming**
