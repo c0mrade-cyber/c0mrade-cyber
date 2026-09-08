@@ -8,7 +8,7 @@
 ---
 
 ### 🕵️ About Me
-whoami
+$ whoami
 $ Cyber Security Engineer | Red Teamer | c0mrad33
 $ Passionate about OPSEC, VAPT & Active Directory exploitation
 $ Currently working on: Active Directory attack paths & tradecraft
