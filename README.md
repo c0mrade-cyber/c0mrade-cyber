@@ -2,7 +2,7 @@
 <h3 align="center">Cyber Security Engineer | Red Teamer | Active Directory Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=500&pause=200&color=00FF00&background=00000000&center=true&vCenter=true&repeat=true&width=600&lines=c0mrad33;c0mrad33;c0mrad33" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=2500&pause=3000&color=00FF00&background=00000000&center=true&vCenter=true&repeat=true&width=600&lines=c0mrad33" alt="Typing SVG" />
 </p>
 
 ---
