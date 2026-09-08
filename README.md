@@ -2,13 +2,12 @@
 <h3 align="center">Cyber Security Engineer | Red Teamer | Active Directory Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=2500&pause=3000&color=00FF00&background=00000000&center=true&vCenter=true&repeat=true&width=600&lines=c0mrad33" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=whoami+%3D+c0mrad33;Breaking+things+to+build+better+defenses;Currently+diving+deep+into+Active+Directory" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🕵️ About Me
-
 ```
 > whoami
 $ Cyber Security Engineer | Red Teamer | c0mrad33
