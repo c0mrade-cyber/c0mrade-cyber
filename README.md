@@ -7,12 +7,7 @@
 
 ---
 ### 🕵️ About Me
-```bash
-$ whoami
-Cyber Security Engineer | Red Teamer | c0mrad33
-Passionate about OPSEC, VAPT & Active Directory exploitation
-Currently working on: Active Directory attack paths & tradecraft
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=%24+whoami;Cyber+Security+Engineer+%7C+Red+Teamer+%7C+c0mrad33;Passionate+about+OPSEC%2C+VAPT+%26+Active+Directory+exploitation;Currently+working+on%3A+Active+Directory+attack+paths+%26+tradecraft)](https://git.io/typing-svg)
 
 - 🔭 I'm currently working on **Active Directory** (attack paths, privilege escalation, persistence)
 - 🌱 I'm currently learning **AD security internals, Red Team tradecraft**
